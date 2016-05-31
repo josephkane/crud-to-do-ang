@@ -1,0 +1,17 @@
+{
+  "name": "crud-to-do-ang",
+  "homepage": "https://github.com/josephkane/crud-to-do-ang",
+  "authors": [
+    "Joseph Kane <josephckane@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
